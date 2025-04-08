@@ -13,10 +13,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone <repository-link>
-
-   ==> the apk file is provided google drive link :-
-
+   git clone <https://github.com/shubhamraj82/Zynetic_product_catalog_app.git>
 
  ==> Open in Android Studio  
  
@@ -33,3 +30,6 @@ API: The app assumes the API provides endpoints for fetching products and produc
 Hilt: Dependency injection is configured using Hilt. Ensure the @HiltAndroidApp annotation is applied to the application class.
 Navigation: Jetpack Compose Navigation is used for seamless navigation between screens.
 Error Handling: Basic error handling is implemented for API calls.
+
+
+---->>>>> the apk file is provided google drive link :- (https://drive.google.com/drive/folders/1MREc8YU7W5ywc2VM5LYfU4byENEWYB0C?usp=sharing)
